@@ -1,5 +1,159 @@
 [
   {
+    "id": "ministry-of-shipping-job-circular",
+    "title": "৩৫ পদে নৌপরিবহন মন্ত্রণালয় নিয়োগ বিজ্ঞপ্তি ২০২৬ MOS Job Circular 2026",
+    "organization": null,
+    "category": "Teletalk Application",
+    "tags": [
+      "Teletalk Application",
+      "All BD Jobs",
+      "সরকারি চাকরি"
+    ],
+    "publish_date": "2026-09-23",
+    "deadline": "2026-10-27",
+    "deadline_raw": "২৭ অক্টোবর ২০২৬ বিকাল ৪:০০ টা",
+    "positions_count": "35",
+    "position_categories": "০৩",
+    "source_url": "https://bdgovtjob.net/ministry-of-shipping-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "cantonment-public-school-and-college-job-circular",
+    "title": "সকল ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ নিয়োগ বিজ্ঞপ্তি ২০২৬",
+    "organization": null,
+    "category": "শিক্ষা প্রতিষ্ঠান চাকরি",
+    "tags": [
+      "শিক্ষা প্রতিষ্ঠান চাকরি",
+      "All BD Jobs",
+      "সরকারি চাকরি"
+    ],
+    "publish_date": "2026-09-23",
+    "deadline": "2026-10-01",
+    "deadline_raw": "২৪, ৩০ সেপ্টেম্বর ও ০১, ০৭, ০৮ অক্টোবর ২০২৬",
+    "positions_count": "08+03+09+06+01",
+    "position_categories": "০৪+০৩+০৫+০৬+০১",
+    "source_url": "https://bdgovtjob.net/cantonment-public-school-and-college-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "dhaka-university-job-circular",
+    "title": "ঢাকা বিশ্ববিদ্যালয় নিয়োগ বিজ্ঞপ্তি ২০২৬ Dhaka University Job Circular 2026",
+    "organization": null,
+    "category": "বিশ্ববিদ্যালয় চাকরি",
+    "tags": [
+      "বিশ্ববিদ্যালয় চাকরি",
+      "All BD Jobs",
+      "Newspaper Jobs",
+      "শিক্ষা প্রতিষ্ঠান চাকরি",
+      "সরকারি চাকরি"
+    ],
+    "publish_date": "2026-09-23",
+    "deadline": "2026-10-04",
+    "deadline_raw": "২৮ সেপ্টেম্বর ও ০৪, ০৭, ০৮, ১১, ১২ অক্টোবর ও ০২, ০৪ নভেম্বর ২০২৬",
+    "positions_count": "01 + 01 + 01 + 02 + 02 + 01 + 02 + 03",
+    "position_categories": "০১ + ০১ + ০১ + ০২ + ০২ + ০১ + ০১ + ০২",
+    "source_url": "https://bdgovtjob.net/dhaka-university-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "school-and-college-job-circular",
+    "title": "সকল স্কুল ও কলেজের নিয়োগ বিজ্ঞপ্তি ২০২৬ All School & College Job Circular 2026",
+    "organization": null,
+    "category": "শিক্ষা প্রতিষ্ঠান চাকরি",
+    "tags": [
+      "শিক্ষা প্রতিষ্ঠান চাকরি",
+      "All BD Jobs",
+      "প্রাইভেট চাকরি"
+    ],
+    "publish_date": "2026-09-23",
+    "deadline": "2026-10-04",
+    "deadline_raw": "২০, ২৪, ৩০ সেপ্টেম্বর ও ০৪, ০৮, ০৯, ১৫, ১৮ অক্টোবর ২০২৬",
+    "positions_count": null,
+    "position_categories": null,
+    "source_url": "https://bdgovtjob.net/school-and-college-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "sicip-job-circular",
+    "title": "SICIP Job Circular 2026 স্কিলস ফর ইন্ডাস্ট্রি কম্পিটিটিভনেস এন্ড ইনোভেশন প্রোগ্রাম নিয়োগ ২০২৬",
+    "organization": null,
+    "category": "সরকারি চাকরি",
+    "tags": [
+      "সরকারি চাকরি",
+      "All BD Jobs"
+    ],
+    "publish_date": "2026-09-23",
+    "deadline": "2026-09-24",
+    "deadline_raw": "২৪ সেপ্টেম্বর, ২৯ সেপ্টেম্বর ও ০৬ অক্টোবর ২০২৬",
+    "positions_count": "অনির্দিষ্ট",
+    "position_categories": "০৪",
+    "source_url": "https://bdgovtjob.net/sicip-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "tax1-job-circular",
+    "title": "কর অঞ্চল-১ নিয়োগ বিজ্ঞপ্তি ২০২৬ Taxes Zone 1 Dhaka Job Circular 2026",
+    "organization": null,
+    "category": "সরকারি চাকরি",
+    "tags": [
+      "সরকারি চাকরি",
+      "All BD Jobs",
+      "Teletalk Application"
+    ],
+    "publish_date": "2026-09-23",
+    "deadline": "2026-10-14",
+    "deadline_raw": "১৪ অক্টোবর ২০২৬ বিকাল ৫:০০টা",
+    "positions_count": "34",
+    "position_categories": "০৭",
+    "source_url": "https://bdgovtjob.net/tax1-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "divctg-job-circular",
+    "title": "বিভাগীয় কমিশনারের কার্যালয় চট্টগ্রাম নিয়োগ বিজ্ঞপ্তি ২০২৬ DIVCTG Job Circular 2026",
+    "organization": null,
+    "category": "Teletalk Application",
+    "tags": [
+      "Teletalk Application",
+      "All BD Jobs",
+      "সরকারি চাকরি"
+    ],
+    "publish_date": "2026-09-23",
+    "deadline": "2026-10-26",
+    "deadline_raw": "২৬ অক্টোবর ২০২৬ বিকাল ০৪:০০টা",
+    "positions_count": "07",
+    "position_categories": "০৩",
+    "source_url": "https://bdgovtjob.net/divctg-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "dc-office-job-circular",
+    "title": "সকল জেলা প্রশাসকের কার্যালয়ে নিয়োগ ২০২৬ – DC Office Job Circular 2026",
+    "organization": null,
+    "category": "সরকারি চাকরি",
+    "tags": [
+      "সরকারি চাকরি",
+      "All BD Jobs",
+      "Newspaper Jobs",
+      "Teletalk Application"
+    ],
+    "publish_date": "2026-09-23",
+    "deadline": "2026-10-07",
+    "deadline_raw": "২৮, ৩০ সেপ্টেম্বর ও ০৭, ১১, ১৪, ১৫, ২২ অক্টোবর ২০২৬",
+    "positions_count": "58 + 07 + 68 + 17 + 09 + 08 + 18 + 06 + 23 + 37 + 02 + 17",
+    "position_categories": "০১ + ০৭ + ০১ + ০৭ + ০৭ + ০৩ + ০৫ + ০৪ + ০৪ + ০৮ + ০২ + ০৬",
+    "source_url": "https://bdgovtjob.net/dc-office-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
     "id": "biman-sena-job-circular",
     "title": "বিমান বাহিনীতে বিমানসেনা নিয়োগ বিজ্ঞপ্তি ২০২৬ Biman Sena Job Circular 2026",
     "organization": null,
@@ -17,25 +171,6 @@
     "positions_count": "অনির্দিষ্ট",
     "position_categories": "বিমানসেনা",
     "source_url": "https://bdgovtjob.net/biman-sena-job-circular/",
-    "educational_requirements": null,
-    "experience_years": null
-  },
-  {
-    "id": "ministry-of-shipping-job-circular",
-    "title": "৩৫ পদে নৌপরিবহন মন্ত্রণালয় নিয়োগ বিজ্ঞপ্তি ২০২৬ MOS Job Circular 2026",
-    "organization": null,
-    "category": "Teletalk Application",
-    "tags": [
-      "Teletalk Application",
-      "All BD Jobs",
-      "সরকারি চাকরি"
-    ],
-    "publish_date": "2026-09-22",
-    "deadline": "2026-10-27",
-    "deadline_raw": "২৭ অক্টোবর ২০২৬ বিকাল ৪:০০ টা",
-    "positions_count": "35",
-    "position_categories": "০৩",
-    "source_url": "https://bdgovtjob.net/ministry-of-shipping-job-circular/",
     "educational_requirements": null,
     "experience_years": null
   },
@@ -139,25 +274,6 @@
     "experience_years": null
   },
   {
-    "id": "cantonment-public-school-and-college-job-circular",
-    "title": "সকল ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ নিয়োগ বিজ্ঞপ্তি ২০২৬",
-    "organization": null,
-    "category": "শিক্ষা প্রতিষ্ঠান চাকরি",
-    "tags": [
-      "শিক্ষা প্রতিষ্ঠান চাকরি",
-      "All BD Jobs",
-      "সরকারি চাকরি"
-    ],
-    "publish_date": "2026-09-22",
-    "deadline": "2026-09-24",
-    "deadline_raw": "২৪, ৩০ সেপ্টেম্বর ও ০১, ০৭ অক্টোবর ২০২৬",
-    "positions_count": "08+03+09+06",
-    "position_categories": "০৪+০৩+০৫+০৬",
-    "source_url": "https://bdgovtjob.net/cantonment-public-school-and-college-job-circular/",
-    "educational_requirements": null,
-    "experience_years": null
-  },
-  {
     "id": "saif-power-tec-job-circular",
     "title": "৯৫ পদে সাইফ পাওয়ারটেক লিমিটেড নিয়োগ বিজ্ঞপ্তি ২০২৬",
     "organization": null,
@@ -195,27 +311,6 @@
     "experience_years": null
   },
   {
-    "id": "dhaka-university-job-circular",
-    "title": "ঢাকা বিশ্ববিদ্যালয় নিয়োগ বিজ্ঞপ্তি ২০২৬ Dhaka University Job Circular 2026",
-    "organization": null,
-    "category": "বিশ্ববিদ্যালয় চাকরি",
-    "tags": [
-      "বিশ্ববিদ্যালয় চাকরি",
-      "All BD Jobs",
-      "Newspaper Jobs",
-      "শিক্ষা প্রতিষ্ঠান চাকরি",
-      "সরকারি চাকরি"
-    ],
-    "publish_date": "2026-09-22",
-    "deadline": "2026-10-04",
-    "deadline_raw": "২৮ সেপ্টেম্বর ও ০৪, ০৭, ০৮, ১১, ১২ অক্টোবর ও ০২, ০৪ নভেম্বর ২০২৬",
-    "positions_count": "01 + 01 + 01 + 02 + 02 + 01 + 02 + 03",
-    "position_categories": "০১ + ০১ + ০১ + ০২ + ০২ + ০১ + ০১ + ০২",
-    "source_url": "https://bdgovtjob.net/dhaka-university-job-circular/",
-    "educational_requirements": null,
-    "experience_years": null
-  },
-  {
     "id": "uddipan-ngo-job-circular",
     "title": "উদ্দীপন এনজিও নিয়োগ বিজ্ঞপ্তি ২০২৬",
     "organization": null,
@@ -249,25 +344,6 @@
     "positions_count": "অনির্দিষ্ট",
     "position_categories": "০৩",
     "source_url": "https://bdgovtjob.net/ucb-bank-job-circular/",
-    "educational_requirements": null,
-    "experience_years": null
-  },
-  {
-    "id": "school-and-college-job-circular",
-    "title": "সকল স্কুল ও কলেজের নিয়োগ বিজ্ঞপ্তি ২০২৬ All School & College Job Circular 2026",
-    "organization": null,
-    "category": "শিক্ষা প্রতিষ্ঠান চাকরি",
-    "tags": [
-      "শিক্ষা প্রতিষ্ঠান চাকরি",
-      "All BD Jobs",
-      "প্রাইভেট চাকরি"
-    ],
-    "publish_date": "2026-09-22",
-    "deadline": "2026-10-04",
-    "deadline_raw": "২০, ২৪, ৩০ সেপ্টেম্বর ও ০৪, ০৮, ০৯, ১৫, ১৮ অক্টোবর ২০২৬",
-    "positions_count": null,
-    "position_categories": null,
-    "source_url": "https://bdgovtjob.net/school-and-college-job-circular/",
     "educational_requirements": null,
     "experience_years": null
   },
@@ -419,24 +495,6 @@
     "positions_count": "14",
     "position_categories": "০৩",
     "source_url": "https://bdgovtjob.net/barisal-university-job-circular/",
-    "educational_requirements": null,
-    "experience_years": null
-  },
-  {
-    "id": "sicip-job-circular",
-    "title": "SICIP Job Circular 2026 স্কিলস ফর ইন্ডাস্ট্রি কম্পিটিটিভনেস এন্ড ইনোভেশন প্রোগ্রাম নিয়োগ ২০২৬",
-    "organization": null,
-    "category": "সরকারি চাকরি",
-    "tags": [
-      "সরকারি চাকরি",
-      "All BD Jobs"
-    ],
-    "publish_date": "2026-09-21",
-    "deadline": "2026-09-24",
-    "deadline_raw": "২৪ সেপ্টেম্বর ও ০৬ অক্টোবর ২০২৬",
-    "positions_count": "অনির্দিষ্ট",
-    "position_categories": "০৩",
-    "source_url": "https://bdgovtjob.net/sicip-job-circular/",
     "educational_requirements": null,
     "experience_years": null
   },
