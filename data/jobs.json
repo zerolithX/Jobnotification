@@ -145,11 +145,49 @@
       "Teletalk Application"
     ],
     "publish_date": "2026-09-23",
-    "deadline": "2026-10-07",
-    "deadline_raw": "২৮, ৩০ সেপ্টেম্বর ও ০৭, ১১, ১৪, ১৫, ২২ অক্টোবর ২০২৬",
-    "positions_count": "58 + 07 + 68 + 17 + 09 + 08 + 18 + 06 + 23 + 37 + 02 + 17",
-    "position_categories": "০১ + ০৭ + ০১ + ০৭ + ০৭ + ০৩ + ০৫ + ০৪ + ০৪ + ০৮ + ০২ + ০৬",
+    "deadline": "2026-10-11",
+    "deadline_raw": "২৮, ৩০ সেপ্টেম্বর ও ০৭, ১১, ১৪, ১৫, ২২, ২৬ অক্টোবর ২০২৬",
+    "positions_count": "58 + 07 + 68 + 17 + 09 + 08 + 18 + 06 + 23 + 37 + 02 + 17 + 12",
+    "position_categories": "০১ + ০৭ + ০১ + ০৭ + ০৭ + ০৩ + ০৫ + ০৪ + ০৪ + ০৮ + ০২ + ০৬ + ০৩",
     "source_url": "https://bdgovtjob.net/dc-office-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "bangladesh-palli-bidyut-samity-job-circular",
+    "title": "সকল পল্লী বিদ্যুৎ নিয়োগ সার্কুলার ২০২৬ Palli Bidyut Job Circular 2026",
+    "organization": null,
+    "category": "সরকারি চাকরি",
+    "tags": [
+      "সরকারি চাকরি",
+      "All BD Jobs",
+      "Newspaper Jobs"
+    ],
+    "publish_date": "2026-09-23",
+    "deadline": "2026-09-30",
+    "deadline_raw": "৩০ সেপ্টেম্বর ও ০৫, ১২ অক্টোবর ২০২৬",
+    "positions_count": "03+01+01",
+    "position_categories": "০১+০১+০১",
+    "source_url": "https://bdgovtjob.net/bangladesh-palli-bidyut-samity-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "bdu-job-circular",
+    "title": "ইউনিভার্সিটি অব ফ্রন্টিয়ার টেকনোলজি বাংলাদেশ নিয়োগ বিজ্ঞপ্তি ২০২৬ UFTB Job Circular 2026",
+    "organization": null,
+    "category": "বিশ্ববিদ্যালয় চাকরি",
+    "tags": [
+      "বিশ্ববিদ্যালয় চাকরি",
+      "All BD Jobs",
+      "সরকারি চাকরি"
+    ],
+    "publish_date": "2026-09-23",
+    "deadline": "2026-10-13",
+    "deadline_raw": "১৩ অক্টোবর ২০২৬",
+    "positions_count": "06",
+    "position_categories": "০৬",
+    "source_url": "https://bdgovtjob.net/bdu-job-circular/",
     "educational_requirements": null,
     "experience_years": null
   },
@@ -513,25 +551,6 @@
     "positions_count": "04",
     "position_categories": "০৪",
     "source_url": "https://bdgovtjob.net/bogura-city-corporation-job-circular/",
-    "educational_requirements": null,
-    "experience_years": null
-  },
-  {
-    "id": "bangladesh-palli-bidyut-samity-job-circular",
-    "title": "সকল পল্লী বিদ্যুৎ নিয়োগ সার্কুলার ২০২৬ Palli Bidyut Job Circular 2026",
-    "organization": null,
-    "category": "সরকারি চাকরি",
-    "tags": [
-      "সরকারি চাকরি",
-      "All BD Jobs",
-      "Newspaper Jobs"
-    ],
-    "publish_date": "2026-09-21",
-    "deadline": "2026-09-30",
-    "deadline_raw": "৩০ সেপ্টেম্বর ও ০৫ অক্টোবর ২০২৬",
-    "positions_count": "03+01",
-    "position_categories": "০১+০১",
-    "source_url": "https://bdgovtjob.net/bangladesh-palli-bidyut-samity-job-circular/",
     "educational_requirements": null,
     "experience_years": null
   },
