@@ -1,5 +1,43 @@
 [
   {
+    "id": "dc-office-job-circular",
+    "title": "সকল জেলা প্রশাসকের কার্যালয়ে নিয়োগ ২০২৬ – DC Office Job Circular 2026",
+    "organization": null,
+    "category": "সরকারি চাকরি",
+    "tags": [
+      "সরকারি চাকরি",
+      "All BD Jobs",
+      "Newspaper Jobs",
+      "Teletalk Application"
+    ],
+    "publish_date": "2026-09-25",
+    "deadline": "2026-10-11",
+    "deadline_raw": "২৮, ৩০ সেপ্টেম্বর ও ০৭, ১১, ১৪, ১৫, ২২, ২৬ অক্টোবর ২০২৬",
+    "positions_count": "58 + 07 + 68 + 17 + 09 + 08 + 18 + 06 + 23 + 37 + 02 + 17 + 12",
+    "position_categories": "০১ + ০৭ + ০১ + ০৭ + ০৭ + ০৩ + ০৫ + ০৪ + ০৪ + ০৮ + ০২ + ০৬ + ০৩",
+    "source_url": "https://bdgovtjob.net/dc-office-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "brac-bank-limited-job-circular",
+    "title": "ব্র্যাক ব্যাংক নিয়োগ বিজ্ঞপ্তি ২০২৬ BRAC Bank Job Circular 2026",
+    "organization": null,
+    "category": "ব্যাংক চাকরির খবর",
+    "tags": [
+      "ব্যাংক চাকরির খবর",
+      "All BD Jobs"
+    ],
+    "publish_date": "2026-09-25",
+    "deadline": "2026-09-27",
+    "deadline_raw": "২৭ সেপ্টেম্বর ২০২৬",
+    "positions_count": "অনির্দিষ্ট",
+    "position_categories": "০১",
+    "source_url": "https://bdgovtjob.net/brac-bank-limited-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
     "id": "cantonment-public-school-and-college-job-circular",
     "title": "সকল ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ নিয়োগ বিজ্ঞপ্তি ২০২৬",
     "organization": null,
@@ -73,26 +111,6 @@
     "positions_count": "অনির্দিষ্ট",
     "position_categories": "০৫",
     "source_url": "https://bdgovtjob.net/sicip-job-circular/",
-    "educational_requirements": null,
-    "experience_years": null
-  },
-  {
-    "id": "dc-office-job-circular",
-    "title": "সকল জেলা প্রশাসকের কার্যালয়ে নিয়োগ ২০২৬ – DC Office Job Circular 2026",
-    "organization": null,
-    "category": "সরকারি চাকরি",
-    "tags": [
-      "সরকারি চাকরি",
-      "All BD Jobs",
-      "Newspaper Jobs",
-      "Teletalk Application"
-    ],
-    "publish_date": "2026-09-24",
-    "deadline": "2026-10-11",
-    "deadline_raw": "২৮, ৩০ সেপ্টেম্বর ও ০৭, ১১, ১৪, ১৫, ২২, ২৬ অক্টোবর ২০২৬",
-    "positions_count": "58 + 07 + 68 + 17 + 09 + 08 + 18 + 06 + 23 + 37 + 02 + 17 + 12",
-    "position_categories": "০১ + ০৭ + ০১ + ০৭ + ০৭ + ০৩ + ০৫ + ০৪ + ০৪ + ০৮ + ০২ + ০৬ + ০৩",
-    "source_url": "https://bdgovtjob.net/dc-office-job-circular/",
     "educational_requirements": null,
     "experience_years": null
   },
@@ -427,24 +445,6 @@
     "positions_count": "142",
     "position_categories": "১৮",
     "source_url": "https://bdgovtjob.net/bangladesh-ordnance-factories-bof-job-circular/",
-    "educational_requirements": null,
-    "experience_years": null
-  },
-  {
-    "id": "brac-bank-limited-job-circular",
-    "title": "ব্র্যাক ব্যাংক নিয়োগ বিজ্ঞপ্তি ২০২৬ BRAC Bank Job Circular 2026",
-    "organization": null,
-    "category": "ব্যাংক চাকরির খবর",
-    "tags": [
-      "ব্যাংক চাকরির খবর",
-      "All BD Jobs"
-    ],
-    "publish_date": "2026-09-22",
-    "deadline": "2026-09-27",
-    "deadline_raw": "২৭ সেপ্টেম্বর ২০২৬",
-    "positions_count": "অনির্দিষ্ট",
-    "position_categories": "০১",
-    "source_url": "https://bdgovtjob.net/brac-bank-limited-job-circular/",
     "educational_requirements": null,
     "experience_years": null
   },
