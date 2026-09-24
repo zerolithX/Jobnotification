@@ -136,7 +136,7 @@
   },
   {
     "id": "tax2-dhaka-job-circular",
-    "title": "কর অঞ্চল-২ ঢাকা নিয়োগ বিজ্ঞপ্তি ২০২৬ TAX2 Dhaka Job Circular 2026",
+    "title": "৪২ পদে কর অঞ্চল-২ ঢাকা নিয়োগ বিজ্ঞপ্তি ২০২৬ TAX2 Dhaka Job Circular 2026",
     "organization": null,
     "category": "সরকারি চাকরি",
     "tags": [
@@ -209,6 +209,46 @@
     "positions_count": "230+",
     "position_categories": "০২+০১+০৭",
     "source_url": "https://bdgovtjob.net/bashundhara-group-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "bcs-circular",
+    "title": "৫০০০ পদে ৫১তম বিসিএস (বিশেষ) পরীক্ষা ২০২৬ সার্কুলার প্রকাশ! 51st BCS Special Examination 2026",
+    "organization": null,
+    "category": "Teletalk Application",
+    "tags": [
+      "Teletalk Application",
+      "All BD Jobs",
+      "Hot Jobs",
+      "সরকারি চাকরি"
+    ],
+    "publish_date": "2026-09-24",
+    "deadline": "2026-10-25",
+    "deadline_raw": "২৫ অক্টোবর ২০২৬ সন্ধ্যা ৬:০০টা",
+    "positions_count": "5000",
+    "position_categories": "০২",
+    "source_url": "https://bdgovtjob.net/bcs-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "bpsc-job-circular",
+    "title": "৫০০০ পদে বাংলাদেশ সরকারী কর্ম কমিশন (BPSC) নিয়োগ বিজ্ঞপ্তি ২০২৬ প্রকাশিত!",
+    "organization": null,
+    "category": "Teletalk Application",
+    "tags": [
+      "Teletalk Application",
+      "All BD Jobs",
+      "Hot Jobs",
+      "সরকারি চাকরি"
+    ],
+    "publish_date": "2026-09-24",
+    "deadline": "2026-10-25",
+    "deadline_raw": "২৫ অক্টোবর ২০২৬ সন্ধ্যা ৬:০০ টা",
+    "positions_count": "5000",
+    "position_categories": "০২",
+    "source_url": "https://bdgovtjob.net/bpsc-job-circular/",
     "educational_requirements": null,
     "experience_years": null
   },
