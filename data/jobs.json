@@ -223,6 +223,139 @@
     "experience_years": null
   },
   {
+    "id": "cantonment-public-school-and-college-job-circular",
+    "title": "সকল ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ নিয়োগ বিজ্ঞপ্তি ২০২৬",
+    "organization": null,
+    "category": "শিক্ষা প্রতিষ্ঠান চাকরি",
+    "tags": [
+      "শিক্ষা প্রতিষ্ঠান চাকরি",
+      "All BD Jobs",
+      "সরকারি চাকরি"
+    ],
+    "publish_date": "2026-09-26",
+    "deadline": "2026-10-01",
+    "deadline_raw": "২৪, ৩০ সেপ্টেম্বর ও ০১, ০৭, ০৮, ২৯ অক্টোবর ২০২৬",
+    "positions_count": "08+03+09+06+01+08",
+    "position_categories": "০৪+০৩+০৫+০৬+০১+০৮",
+    "source_url": "https://bdgovtjob.net/cantonment-public-school-and-college-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "dhaka-university-job-circular",
+    "title": "ঢাকা বিশ্ববিদ্যালয় নিয়োগ বিজ্ঞপ্তি ২০২৬ Dhaka University Job Circular 2026",
+    "organization": null,
+    "category": "বিশ্ববিদ্যালয় চাকরি",
+    "tags": [
+      "বিশ্ববিদ্যালয় চাকরি",
+      "All BD Jobs",
+      "Newspaper Jobs",
+      "শিক্ষা প্রতিষ্ঠান চাকরি",
+      "সরকারি চাকরি"
+    ],
+    "publish_date": "2026-09-26",
+    "deadline": "2026-11-02",
+    "deadline_raw": "২৮ সেপ্টেম্বর ও ০৪, ০৭, ০৮, ১১, ১২, ১৩, ১৪ অক্টোবর ও ০২, ০৪, ২৩ নভেম্বর ২০২৬",
+    "positions_count": "01 + 01 + 01 + 02 + 02 + 01 + 02 + 03",
+    "position_categories": "০১ + ০১ + ০১ + ০২ + ০২ + ০১ + ০১ + ০২",
+    "source_url": "https://bdgovtjob.net/dhaka-university-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "school-and-college-job-circular",
+    "title": "সকল স্কুল ও কলেজের নিয়োগ বিজ্ঞপ্তি ২০২৬ All School & College Job Circular 2026",
+    "organization": null,
+    "category": "শিক্ষা প্রতিষ্ঠান চাকরি",
+    "tags": [
+      "শিক্ষা প্রতিষ্ঠান চাকরি",
+      "All BD Jobs",
+      "প্রাইভেট চাকরি"
+    ],
+    "publish_date": "2026-09-26",
+    "deadline": "2026-10-08",
+    "deadline_raw": "৩০ সেপ্টেম্বর ও ০৪, ০৫, ০৬, ০৭, ০৮, ০৯, ১৫, ১৮, ২৯ অক্টোবর ২০২৬",
+    "positions_count": null,
+    "position_categories": null,
+    "source_url": "https://bdgovtjob.net/school-and-college-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "garments-and-textile-job-circular",
+    "title": "সকল গার্মেন্টস ও টেক্সটাইল নিয়োগ বিজ্ঞপ্তি ২০২৬",
+    "organization": null,
+    "category": "প্রাইভেট চাকরি",
+    "tags": [
+      "প্রাইভেট চাকরি",
+      "All BD Jobs"
+    ],
+    "publish_date": "2026-09-26",
+    "deadline": "2026-10-01",
+    "deadline_raw": "০১, ০৩, ০৬, ০৭ অক্টোবর ২০২৬",
+    "positions_count": "01+20+36+25",
+    "position_categories": "০১+০২+১৩+০৮",
+    "source_url": "https://bdgovtjob.net/garments-and-textile-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "municipality-job-circular",
+    "title": "সকল পৌরসভা কার্যালয় নিয়োগ বিজ্ঞপ্তি ২০২৬ Pourashava Job Circular 2026",
+    "organization": null,
+    "category": "সরকারি চাকরি",
+    "tags": [
+      "সরকারি চাকরি",
+      "All BD Jobs"
+    ],
+    "publish_date": "2026-09-26",
+    "deadline": "2026-10-25",
+    "deadline_raw": "২৫ অক্টোবর ২০২৬",
+    "positions_count": "10",
+    "position_categories": "১০",
+    "source_url": "https://bdgovtjob.net/municipality-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "chittagong-university-job-circular",
+    "title": "চট্টগ্রাম বিশ্ববিদ্যালয় নিয়োগ বিজ্ঞপ্তি ২০২৬ Chittagong University Job Circular 2026",
+    "organization": null,
+    "category": "বিশ্ববিদ্যালয় চাকরি",
+    "tags": [
+      "বিশ্ববিদ্যালয় চাকরি",
+      "All BD Jobs",
+      "শিক্ষা প্রতিষ্ঠান চাকরি",
+      "সরকারি চাকরি"
+    ],
+    "publish_date": "2026-09-26",
+    "deadline": "2026-10-08",
+    "deadline_raw": "০৮ অক্টোবর এবং ০১ নভেম্বর ২০২৬",
+    "positions_count": "38 + 44",
+    "position_categories": "২১ + ১৯",
+    "source_url": "https://bdgovtjob.net/chittagong-university-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "alloy-aluminium-furniture-limited-job-circular",
+    "title": "এ্যালয় এ্যালুমিনিয়াম ফার্ণিচার লিমিটেড নিয়োগ বিজ্ঞপ্তি ২০২৬",
+    "organization": null,
+    "category": "প্রাইভেট চাকরি",
+    "tags": [
+      "প্রাইভেট চাকরি",
+      "All BD Jobs"
+    ],
+    "publish_date": "2026-09-26",
+    "deadline": "2026-10-05",
+    "deadline_raw": "০৫ অক্টোবর ২০২৬",
+    "positions_count": "11",
+    "position_categories": "০৩",
+    "source_url": "https://bdgovtjob.net/alloy-aluminium-furniture-limited-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
     "id": "dc-office-job-circular",
     "title": "সকল জেলা প্রশাসকের কার্যালয়ে নিয়োগ ২০২৬ – DC Office Job Circular 2026",
     "organization": null,
@@ -409,65 +542,6 @@
     "positions_count": "অনির্দিষ্ট",
     "position_categories": "০৩টি সার্কুলার চলমান",
     "source_url": "https://bdgovtjob.net/bangladesh-army-job-circular/",
-    "educational_requirements": null,
-    "experience_years": null
-  },
-  {
-    "id": "cantonment-public-school-and-college-job-circular",
-    "title": "সকল ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ নিয়োগ বিজ্ঞপ্তি ২০২৬",
-    "organization": null,
-    "category": "শিক্ষা প্রতিষ্ঠান চাকরি",
-    "tags": [
-      "শিক্ষা প্রতিষ্ঠান চাকরি",
-      "All BD Jobs",
-      "সরকারি চাকরি"
-    ],
-    "publish_date": "2026-09-24",
-    "deadline": "2026-10-01",
-    "deadline_raw": "২৪, ৩০ সেপ্টেম্বর ও ০১, ০৭, ০৮, ২৯ অক্টোবর ২০২৬",
-    "positions_count": "08+03+09+06+01+08",
-    "position_categories": "০৪+০৩+০৫+০৬+০১+০৮",
-    "source_url": "https://bdgovtjob.net/cantonment-public-school-and-college-job-circular/",
-    "educational_requirements": null,
-    "experience_years": null
-  },
-  {
-    "id": "dhaka-university-job-circular",
-    "title": "ঢাকা বিশ্ববিদ্যালয় নিয়োগ বিজ্ঞপ্তি ২০২৬ Dhaka University Job Circular 2026",
-    "organization": null,
-    "category": "বিশ্ববিদ্যালয় চাকরি",
-    "tags": [
-      "বিশ্ববিদ্যালয় চাকরি",
-      "All BD Jobs",
-      "Newspaper Jobs",
-      "শিক্ষা প্রতিষ্ঠান চাকরি",
-      "সরকারি চাকরি"
-    ],
-    "publish_date": "2026-09-24",
-    "deadline": "2026-11-02",
-    "deadline_raw": "২৮ সেপ্টেম্বর ও ০৪, ০৭, ০৮, ১১, ১২, ১৩, ১২ অক্টোবর ও ০২, ০৪, ২৩ নভেম্বর ২০২৬",
-    "positions_count": "01 + 01 + 01 + 02 + 02 + 01 + 02 + 03",
-    "position_categories": "০১ + ০১ + ০১ + ০২ + ০২ + ০১ + ০১ + ০২",
-    "source_url": "https://bdgovtjob.net/dhaka-university-job-circular/",
-    "educational_requirements": null,
-    "experience_years": null
-  },
-  {
-    "id": "school-and-college-job-circular",
-    "title": "সকল স্কুল ও কলেজের নিয়োগ বিজ্ঞপ্তি ২০২৬ All School & College Job Circular 2026",
-    "organization": null,
-    "category": "শিক্ষা প্রতিষ্ঠান চাকরি",
-    "tags": [
-      "শিক্ষা প্রতিষ্ঠান চাকরি",
-      "All BD Jobs",
-      "প্রাইভেট চাকরি"
-    ],
-    "publish_date": "2026-09-24",
-    "deadline": "2026-10-04",
-    "deadline_raw": "২০, ২৪, ৩০ সেপ্টেম্বর ও ০৪, ০৮, ০৯, ১৫, ১৮ অক্টোবর ২০২৬",
-    "positions_count": null,
-    "position_categories": null,
-    "source_url": "https://bdgovtjob.net/school-and-college-job-circular/",
     "educational_requirements": null,
     "experience_years": null
   },
@@ -755,24 +829,6 @@
     "positions_count": "অনির্দিষ্ট",
     "position_categories": "০৩",
     "source_url": "https://bdgovtjob.net/ucb-bank-job-circular/",
-    "educational_requirements": null,
-    "experience_years": null
-  },
-  {
-    "id": "garments-and-textile-job-circular",
-    "title": "সকল গার্মেন্টস ও টেক্সটাইল নিয়োগ বিজ্ঞপ্তি ২০২৬",
-    "organization": null,
-    "category": "প্রাইভেট চাকরি",
-    "tags": [
-      "প্রাইভেট চাকরি",
-      "All BD Jobs"
-    ],
-    "publish_date": "2026-09-22",
-    "deadline": "2026-10-01",
-    "deadline_raw": "২৪ সেপ্টেম্বর ও ০১, ০৬, ০৭ অক্টোবর ২০২৬",
-    "positions_count": "04+01+20+36",
-    "position_categories": "০২+০১+০২+১৩",
-    "source_url": "https://bdgovtjob.net/garments-and-textile-job-circular/",
     "educational_requirements": null,
     "experience_years": null
   },
