@@ -165,6 +165,21 @@
     "experience_years": null
   },
   {
+    "id": "rural-development-academy-rda-job-circular",
+    "title": "১৬ পদে পল্লী উন্নয়ন একাডেমী নিয়োগ বিজ্ঞপ্তি ২০২৬ RDA Job Circular 2026",
+    "organization": null,
+    "category": null,
+    "tags": [],
+    "publish_date": "2026-11-17",
+    "deadline": null,
+    "deadline_raw": null,
+    "positions_count": null,
+    "position_categories": null,
+    "source_url": "https://bdgovtjob.net/rural-development-academy-rda-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
     "id": "buet-job-circular",
     "title": "২০ পদে বুয়েট নিয়োগ বিজ্ঞপ্তি ২০২৬ BUET Job Circular 2026",
     "organization": null,
@@ -345,6 +360,21 @@
     "experience_years": null
   },
   {
+    "id": "prime-bank-limited-job-circular",
+    "title": "প্রাইম ব্যাংক নিয়োগ বিজ্ঞপ্তি ২০২৬ Prime Bank Job Circular 2026",
+    "organization": null,
+    "category": null,
+    "tags": [],
+    "publish_date": "2026-11-15",
+    "deadline": null,
+    "deadline_raw": null,
+    "positions_count": null,
+    "position_categories": null,
+    "source_url": "https://bdgovtjob.net/prime-bank-limited-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
     "id": "tmss-ngo-job-circular",
     "title": "১০৬০ পদে টিএমএসএস এনজিও নিয়োগ ২০২৬ TMSS NGO Job Circular 2026",
     "organization": null,
@@ -371,6 +401,36 @@
     "positions_count": null,
     "position_categories": null,
     "source_url": "https://bdgovtjob.net/brac-bank-limited-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "ncc-bank-job-circular",
+    "title": "এনসিসি ব্যাংক নিয়োগ বিজ্ঞপ্তি ২০২৬ NCC Bank Job Circular 2026",
+    "organization": null,
+    "category": null,
+    "tags": [],
+    "publish_date": "2026-11-14",
+    "deadline": null,
+    "deadline_raw": null,
+    "positions_count": null,
+    "position_categories": null,
+    "source_url": "https://bdgovtjob.net/ncc-bank-job-circular/",
+    "educational_requirements": null,
+    "experience_years": null
+  },
+  {
+    "id": "one-bank-limited-job-circular",
+    "title": "ওয়ান ব্যাংক নিয়োগ বিজ্ঞপ্তি ২০২৬ One Bank Job Circular 2026",
+    "organization": null,
+    "category": null,
+    "tags": [],
+    "publish_date": "2026-11-14",
+    "deadline": null,
+    "deadline_raw": null,
+    "positions_count": null,
+    "position_categories": null,
+    "source_url": "https://bdgovtjob.net/one-bank-limited-job-circular/",
     "educational_requirements": null,
     "experience_years": null
   },
@@ -1481,21 +1541,6 @@
     "positions_count": null,
     "position_categories": null,
     "source_url": "https://bdgovtjob.net/ad-din-foundation-job-circular/",
-    "educational_requirements": null,
-    "experience_years": null
-  },
-  {
-    "id": "ncc-bank-job-circular",
-    "title": "এনসিসি ব্যাংক নিয়োগ বিজ্ঞপ্তি ২০২৬ NCC Bank Job Circular 2026",
-    "organization": null,
-    "category": null,
-    "tags": [],
-    "publish_date": "2026-11-04",
-    "deadline": null,
-    "deadline_raw": null,
-    "positions_count": null,
-    "position_categories": null,
-    "source_url": "https://bdgovtjob.net/ncc-bank-job-circular/",
     "educational_requirements": null,
     "experience_years": null
   },
@@ -4600,24 +4645,6 @@
     "positions_count": "অনির্দিষ্ট",
     "position_categories": "০৩",
     "source_url": "https://bdgovtjob.net/ucb-bank-job-circular/",
-    "educational_requirements": null,
-    "experience_years": null
-  },
-  {
-    "id": "prime-bank-limited-job-circular",
-    "title": "প্রাইম ব্যাংক নিয়োগ বিজ্ঞপ্তি ২০২৬ Prime Bank Job Circular 2026",
-    "organization": null,
-    "category": "ব্যাংক চাকরির খবর",
-    "tags": [
-      "ব্যাংক চাকরির খবর",
-      "All BD Jobs"
-    ],
-    "publish_date": "2026-09-22",
-    "deadline": "2026-09-27",
-    "deadline_raw": "২৭ সেপ্টেম্বর ২০২৬",
-    "positions_count": "01",
-    "position_categories": "০১",
-    "source_url": "https://bdgovtjob.net/prime-bank-limited-job-circular/",
     "educational_requirements": null,
     "experience_years": null
   },
